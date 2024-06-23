@@ -2,16 +2,20 @@
  
 - 🔥 Enginer Developer
 
-- 💬 Ask me about Python
+- 💬 Data Analytics
+
+<br><br>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ruan.hsferreira)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ruan_hsferreira)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/QH5U44XZVBK7M1)
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
@@ -20,31 +24,27 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## 📚 Libraries
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanHSferreira&layout=compact&theme=vision-friendly-dark" alt="RuanHSferreira's most languages"/>
-</p>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
+
+<br><br>
+
+## 📊 GitHub Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanHSferreira&layout=compact&theme=onedark)
 
 <br><br>
 
 ## Education
 <div style="display: inline_block">
-  <img align="center" alt="khanAcademy" src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat&logo=Khan%20Academy&logoColor=white" />
   <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white" />
-  <img align="center" alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=Coursera&logoColor=white" />
-  <img align="center" alt="sololearn" src="https://img.shields.io/badge/-Sololearn-3a464b?style=flat&logo=Sololearn&logoColor=white" />
-  <img align="center" alt="datacamp" src="https://img.shields.io/badge/Datacamp-05192D?style=flat&logo=datacamp&logoColor=65FF8F" />
-  <img align="center" alt="rocketseat" src="https://img.shields.io/badge/-Rocketseat-%238257e6" />
+  <img align="center" alt="Anhanguera" src="https://img.shields.io/badge/Anhanguera-style=flat" />
+ 
 </div>
 
-<br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://www.instagram.com/ruan.hsferreira" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Ruan-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
 <br>
