@@ -4,6 +4,8 @@
 
 - 💬 Data Analytics
 
+[![](https://visitcount.itsvg.in/api?id=RuanHSferreira&icon=3&color=2)](https://visitcount.itsvg.in)
+
 <br><br>
 
 ## 🌐 Socials:
